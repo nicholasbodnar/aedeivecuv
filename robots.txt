@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neezoohah.zammitcorp.com/sitemap.xml
